@@ -24,5 +24,9 @@ These datasets are publicly accessible and can be found and downloaded from the 
 
 ## Companies
 
+## Videos
+- [(Microsoft)FarmBeats: AI & IoT for Data-Driven Agriculture](https://www.youtube.com/watch?v=zrYUzr6_P18)(2019)
+- 
+
 
 
